@@ -1,0 +1,2 @@
+# yapzekproje
+yıldızlar proje
